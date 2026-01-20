@@ -66,7 +66,7 @@ export default function App() {
 
         {/* Footer */}
         <p className="mt-4 text-center text-xs uppercase tracking-[0.3em] text-green-400">
-          DNYX DIGITAL CLOCK
+           DIGITAL CLOCK
         </p>
       </div>
     </div>
